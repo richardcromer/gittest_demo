@@ -1,0 +1,2 @@
+
+This document is in newdir\newdir2 and is version 1.

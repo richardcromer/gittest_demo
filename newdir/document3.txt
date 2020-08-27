@@ -1,0 +1,1 @@
+This document is in newdir and is version 1.
